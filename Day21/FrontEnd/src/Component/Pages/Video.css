@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.videofull
+{
+    
+   
+    padding-top: 60px; /* Player ratio: 100 / (1280 / 720) */
+   
+}
+
+.videobody
+{
+   padding-top: 100px;
+   margin-left: 350px;
+
+}
+.videobody h2{
+    color: rgba(0, 128, 0, 0.807);
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.132);
+    margin-left: -320px;
+    margin-top: 10px;
+}

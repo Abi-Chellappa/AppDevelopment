@@ -1,0 +1,43 @@
+.imagefull{
+    
+    padding-top: 70px;
+    font-size: 30px;
+    background-color: white;
+    height: 100vh;
+   
+    
+}
+.imagefull p 
+{
+    margin-top: 50px;
+    margin-left: 00px;
+    color: rgba(18, 74, 18, 0.807);
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.038);
+}
+.imageslide{
+   
+   
+    padding-left: 200px;
+    padding-right: 280px;
+    margin-bottom: 1%;
+    margin-left: 100px;
+    margin-top: 18px;
+    
+    
+}.imageslide img{
+
+
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.496);
+
+}
+
+.carousel .slider-wrapper{
+    padding-top: 30px;
+}
+.carousel .thumb{
+    width: 150%;
+    height: 50px;
+}
+.carousel{
+    text-align: center;
+}
