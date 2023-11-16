@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap");
+
+
+.amazonfull{
+    padding-top: 100px;
+    font-family: "Poppins", sans-serif !important;
+   
+}
+.amazonhead
+{
+   margin-top: 17px;
+   margin-bottom: 20px;
+   padding-left: 130px;
+   padding-right: 130px;
+   color: green;
+}
+.amazonhead h2{
+    
+    font-family:var(--mv-trellis-font-heading,"Roboto Slab",Georgia,Times,"Times New Roman",serif);;
+    font-size: 33px;
+
+}
+.amazonimg
+{
+    background-image: url("https://media.istockphoto.com/id/1222738862/photo/fresh-green-paradise-scenery-amazonian-tropical-rainforest-environment-with-calm-river-in.jpg?s=612x612&w=0&k=20&c=mHv9qJZycBEWJb1-RQTC01E3CQNB-gfxKHV9LWBeuIA=");
+    background:no-repeat;
+    height: 100px;
+    width: 500px;
+    padding-left: 130px;
+    padding-right: 130px;
+}
+.amazoncontent
+{
+   
+    margin-top: 430px;
+    padding-left: 130px;
+    padding-right: 130px;
+    color: rgba(0, 0, 0, 0.745);
+
+}
+.amazoncontent p
+{
+    font-size: 18px;
+    text-align: justify;
+    text-decoration-line:calc();
+    line-height: 2;
+}
+.animalrect
+{
+    width: 1210px;
+    height: 65px;
+    background-color: rgb(230, 226, 226);
+    padding-left: 140px;
+    padding-right: 140px;
+    margin-left: 128px;
+
+}
+.animalrect h3{
+    font-size: 31px;
+    padding: 10px;
+    color: rgb(66, 118, 66);
+    padding-left: 140px;
+    padding-right: 140px;
+    
+    
+}
+.amazonVideo
+{
+   
+   
+    padding: 10px;
+}
+.imageslide
+{
+    z-index: -5001px;
+}
+.amazonvideocontainer
+{
+    width: 940px;
+    height: 580px;
+    background-color: whitesmoke;
+    margin-left: 280px;
+    margin-top: 59px;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.336);
+    border: 1px solid rgba(0, 0, 0, 0.182);
+    margin-bottom: 40px;
+}

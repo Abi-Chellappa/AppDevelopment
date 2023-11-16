@@ -1,0 +1,111 @@
+.lionfull
+{
+   
+    
+    padding-top: 100px;
+    font-family: sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.lioncontainer
+{
+   
+    
+  
+   
+  
+    max-width: 1360px;
+    width: 80%;
+    margin: 28px auto;
+    height: 144vh;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.336);
+   
+  
+}
+.lionimagerect img
+{
+    margin-left: -693px;
+    margin-top: 20px;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.336);
+   
+}
+.lioncontent
+{
+   
+    margin-top: -1034px;
+    width: 55%;
+    height: 120vh;
+    background-color: whitesmoke;
+    margin-left: 500px;
+    
+   
+}
+.lioncontent .rectangle1
+{
+    background: blue;
+    width: 55%px;
+    height: 60px;
+
+ border: 6cap;
+ margin-bottom: 5px;
+ border: 1px solid rgba(0, 0, 0, 0.222);
+ background-color: whitesmoke;
+ 
+}
+.lioncontent .rectangle1 h1
+{
+    text-align: left;
+    margin-left: 0px;
+    font-size: 37px;
+    width: 500px;
+    padding-left: 20px;
+    color: rgb(37, 74, 37);
+
+}
+.lioncontent .rectangle2
+{
+    background: pink;
+    width: 55%px;
+    height: 130vh;
+    border: 1px solid rgba(0, 0, 0, 0.222);
+    background-color: whitesmoke;
+}
+.lioncontent .rectangle2 p
+{
+   
+    text-align: left;
+   padding: 20px;
+    justify-content: center;
+    line-height: 29px;
+    font-family: cursive;
+    color: rgba(0, 0, 0, 0.779);
+    font-size: 17px;
+}
+.lioncontent span
+{
+    color: black;
+    width: 200px;
+   
+    font: bold;
+    color: rgb(37, 74, 37);
+}
+.lioncontent h4{
+    text-align: left;
+    padding-left: 20px;
+    color: rgb(37, 74, 37);
+}
+.lionvideo
+{
+   
+    margin-bottom: 30px;
+}
+.videocontainer
+{
+    width: 80%;
+    height: 500px;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+    margin: 28px auto;
+    padding: 10px;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.336);
+}

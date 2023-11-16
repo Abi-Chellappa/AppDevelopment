@@ -1,0 +1,41 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.videofull
+{
+    
+   
+    padding-top: 50px; /* Player ratio: 100 / (1280 / 720) */
+   
+}
+
+.videobody
+{
+   padding-top: 80px;
+   
+
+}
+.videobody h2{
+    color: rgba(0, 128, 0, 0.807);
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.132);
+    margin-left: -320px;
+    margin-top: 10px;
+}
+.videocontainer1
+{
+    width: 940px;
+    height: 1430px;
+    background-color: whitesmoke;
+    margin-left: 260px;
+    margin-top: 59px;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.336);
+    border: 1px solid rgba(0, 0, 0, 0.182);
+    margin-bottom: 40px;
+}
+.videocontainer1 ul 
+{
+   
+    padding: 13px;
+}
